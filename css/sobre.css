@@ -157,4 +157,12 @@ height: 20px;
 text-indent: -9999px;
 }
   
-  /*fim footer*
+/*fim footer*/
+
+p::first-letter {
+    font-weight: bold;
+}
+
+:not(p) + p::first-line {
+  font-variant: small-caps;
+}
