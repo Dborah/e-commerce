@@ -1,6 +1,10 @@
 body {
   color: #333333;
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.painel h2 {
+  font-family: 'Bad Script', sans-serif;
 }
 
 /* inicio css cabeçalho*/
